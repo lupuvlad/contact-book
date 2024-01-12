@@ -1,0 +1,11 @@
+This is one of the excellent python projects for beginners.
+Everyone uses a contact book to save contact details, including name, address, phone number, and even email address.
+The main objective of this project is to generate a contact book using python where users can add a new contact, edit,
+or delete existing contacts and view the details of all their contacts.
+This is one of the coolest project ideas in python for beginners to help strengthen
+their command of the programming language.
+
+This is a command-line project where you will design a contact book application
+that users can use to save and find contact details.
+The application should also allow users to update contact information, delete contacts, and list saved contacts. 
+Will use a CSV file for the contact book. 
